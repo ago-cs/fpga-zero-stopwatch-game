@@ -1,0 +1,13 @@
+# ignore stuff folder folder
+db/
+devkits/
+incremental_db/
+simulation/
+work/
+output_files/
+tb/*/work/*.do
+tb/*/work/*.sv
+*.bak
+*.qws
+vsim.wlf
+
